@@ -51,6 +51,7 @@ AI Native란 AI를 단순히 도구로 쓰는 게 아니라, 기획부터 실행
 | [show-me-the-prd](https://github.com/fivetaku/show-me-the-prd) | 쇼미더피알디 - 인터뷰 기반 PRD 생성, 한 문장에서 4종 디자인 문서까지 |
 | [kkirikkiri](https://github.com/fivetaku/kkirikkiri) | 끼리끼리 - 자연어 한마디로 AI 에이전트 팀 자동 구성, 멀티 모델 지원 |
 | [skillers-suda](https://github.com/fivetaku/skillers-suda) | 스킬러들의 수다 - 4명의 전문가가 수다 떨면서 바이브코더의 아이디어를 동작하는 스킬로 변환 |
+| [nopal](https://github.com/fivetaku/nopal) | 노팔 - Google Workspace 8개 서비스를 자연어로 오케스트레이션, gws CLI 기반 자동화 |
 
 > 플러그인은 계속 추가됩니다. Watch 해두시면 새 플러그인 알림을 받을 수 있습니다.
 
